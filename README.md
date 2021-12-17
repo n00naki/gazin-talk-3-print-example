@@ -1,5 +1,5 @@
 <h2 align="center">
-2ª Talk Gazin Tech
+3ª Talk Gazin Tech
 </h2>
 
 <h2 align="center">
@@ -44,7 +44,7 @@ coloque seu conteudo que devera ser impresso dentro dessa tag e controle com a p
 $ git clone https://github.com/n00naki/gazin-talk-3-print-example.git
 ```
 
-## Rodando o cypress
+## Rodando o projeto
 
 ```bash
 # Instale as dependências
