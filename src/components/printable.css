@@ -1,0 +1,13 @@
+.print {
+  display: none;
+}
+
+@media print {
+  .print {
+    display: block;
+    -webkit-print-color-adjust: exact;
+  }
+  .no-print {
+    display: none;
+  }
+}
